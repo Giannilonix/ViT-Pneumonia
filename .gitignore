@@ -1,0 +1,5 @@
+ *.DS_Store
+chest_xray/
+chest_xray_pneumonia_detection/checkpoint-312/
+mlruns/
+ViT_env/
